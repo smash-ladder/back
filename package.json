@@ -39,7 +39,7 @@
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^10.0.0",
-    "marked": "^1.2.7",
+    "marked": "^2.0.0",
     "mysql2": "^2.2.5",
     "nodemailer": "^6.4.17"
   }
